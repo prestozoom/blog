@@ -1,0 +1,163 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "y",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "monolith",
+    "baseName": "y",
+    "packageName": "y",
+    "packageFolder": "y",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "NDUxMzhjMzM0ZmEwMmExOGE3NDg5OTYxMDcyMmQwNjlhYzE1NTYzMDZmZjc5MTI1ZGI3MmJhNDFhNmRmMjljNWI4YzIyNzA3MzBmNzkwN2JhMDk5MjRmYWFjZmZkZGJiMWViZTJhYjVjMzEzOTU2NzJjMGM1YmQxNTMyNjUyZmQ=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling",
+      "cucumber",
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "otherModules": [
+      {
+        "name": "generator-jhipster-nav-element",
+        "version": "2.0.13"
+      },
+      {
+        "name": "generator-jhipster-primeng-charts",
+        "version": "1.2.0"
+      },
+      {
+        "name": "generator-jhipster-docker",
+        "version": "2.5.0"
+      },
+      {
+        "name": "generator-jhipster-spring-cloud-stream",
+        "version": "1.0.0"
+      },
+      {
+        "name": "generator-jhipster-standalone-profile",
+        "version": "2.2.0"
+      },
+      {
+        "name": "generator-jhipster-primeng",
+        "version": "2.0.66"
+      },
+      {
+        "name": "generator-jhipster-swagger-cli",
+        "version": "3.0.1"
+      },
+      {
+        "name": "generator-jhipster-electron",
+        "version": "1.0.0"
+      },
+      {
+        "name": "generator-jhipster-leafletmap",
+        "version": "2.0.0"
+      },
+      {
+        "name": "generator-jhipster-audit-helper",
+        "version": "1.0.3"
+      },
+      {
+        "name": "generator-jhipster-obfuscation-at-rest",
+        "version": "0.3.0"
+      },
+      {
+        "name": "generator-jhipster-uaa-security-authority",
+        "version": "1.0.1"
+      },
+      {
+        "name": "generator-jhipster-vuejs2",
+        "version": "0.3.55"
+      },
+      {
+        "name": "generator-jhipster-feign-client",
+        "version": "1.0.6"
+      },
+      {
+        "name": "generator-jhipster-social-login-api",
+        "version": "0.0.1"
+      },
+      {
+        "name": "generator-jhipster-vmware-clarity",
+        "version": "1.1.1"
+      },
+      {
+        "name": "generator-jhipster-cockroachdb",
+        "version": "0.0.10"
+      },
+      {
+        "name": "generator-jhipster-vuejsx",
+        "version": "0.0.1"
+      },
+      {
+        "name": "generator-jhipster-file2url",
+        "version": "0.0.0"
+      },
+      {
+        "name": "generator-jhipster-aeropost",
+        "version": "1.6.0"
+      }
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "al",
+      "ar-ly",
+      "hy",
+      "by",
+      "bn",
+      "ca",
+      "zh-cn",
+      "zh-tw",
+      "cs",
+      "da",
+      "nl",
+      "et",
+      "fa",
+      "fr",
+      "gl",
+      "de",
+      "el",
+      "hi",
+      "hu",
+      "id",
+      "it",
+      "ja",
+      "ko",
+      "mr",
+      "my",
+      "pl",
+      "pt-br",
+      "pt-pt",
+      "ro",
+      "ru",
+      "sk",
+      "sr",
+      "es",
+      "sv",
+      "tr",
+      "ta",
+      "th",
+      "ua",
+      "uz-lat",
+      "vi"
+    ]
+  }
+}
